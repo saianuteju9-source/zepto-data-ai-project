@@ -1,3 +1,9 @@
+## Project Goals
+
+- Build a complete data pipeline
+- Perform data analysis and generate insights
+- Develop a policy-based support assistant using RAG
+- Organize all project modules in a single GitHub repository
 # Zepto Data & AI Project
 
 ## Project Overview
